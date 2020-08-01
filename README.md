@@ -1,3 +1,10 @@
 ### Orlys Ma
 
-🍭 一芥初出茅廬的後端除草工
+### About Me
+
+I'm good at coding.  
+Like this.  
+```　　　　　　　　　　　```
+
+### Skills
+![my-code](img/￿￾￿￿￾￿￿￾￿￿￾￾￿￿￿￿￿￾￾￾￾￾￾￾￾￾￾￾￾￾￾￾)
